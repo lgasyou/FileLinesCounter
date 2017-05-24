@@ -3,5 +3,5 @@
 ## DESCRIPTION
 A program manages to count lines of files which are selected by their file name extensions.
 
-##HELP
+## HELP
 Follow the inner introduction.
